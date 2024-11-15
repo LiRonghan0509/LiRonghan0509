@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ronghan Li @LiRonghan0509.
+- 👋 Hi, I’m Ronghan Li @ronghanli2002.
 - 👀 I’m interested in high-dimensional genomics data and other forms of biomedical data.
 - 🏫 I graduated from Shanghai Jiao Tong University with my B.Sc degree (summa cum claude) in 2024.
 - 🌱 I’m currently a Biomedical Informatics and Data Science Ph.D. student at Washington University in St. Louis.
